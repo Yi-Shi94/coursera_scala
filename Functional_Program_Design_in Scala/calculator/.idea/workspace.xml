@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4976aea5-6c3d-4ac1-80b2-779526f798d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_dom_sjs0_6_2_11_0_9_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_library_2_11_0_6_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_js_scalajs_test_interface_2_11_0_6_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun2-calculator-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun2-calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/shared-sources.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/webUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/modules/progfun2-quickcheck-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/modules/progfun2-quickcheck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickcheck/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/calculator/Calculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/calculator/Calculator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/calculator/Polynomial.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/calculator/Polynomial.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/calculator/TweetLength.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/calculator/TweetLength.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickcheck/src/main/scala/quickcheck/QuickCheck.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../quickcheck/src/main/scala/quickcheck/QuickCheck.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$15ba5a6f51404261c0b4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$15ba5a6f51404261c0b4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$15ba5a6f51404261c0b4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$15ba5a6f51404261c0b4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$36bb0fae1bdd9b7028c3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$36bb0fae1bdd9b7028c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$36bb0fae1bdd9b7028c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$36bb0fae1bdd9b7028c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$4631250390af18618703$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$4631250390af18618703$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$4631250390af18618703.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$4631250390af18618703.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$502f3a759d434778bd6a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$502f3a759d434778bd6a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$502f3a759d434778bd6a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$502f3a759d434778bd6a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$67e991198ffe05cc9bb2$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$67e991198ffe05cc9bb2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$67e991198ffe05cc9bb2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$67e991198ffe05cc9bb2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$752d9b592399aee51ddc$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$752d9b592399aee51ddc$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$752d9b592399aee51ddc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$752d9b592399aee51ddc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$752d9b592399aee51ddc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$$anonfun$$sbtdef$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$$anonfun$$sbtdef$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$7889716993348e986b26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$877dccd50809d2fe0986$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$877dccd50809d2fe0986$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$877dccd50809d2fe0986.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$877dccd50809d2fe0986.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$ccc7033141a16cb80e45$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$ccc7033141a16cb80e45$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$ccc7033141a16cb80e45.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$ccc7033141a16cb80e45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$d3ad95e5e5357bda359f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$d3ad95e5e5357bda359f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$d3ad95e5e5357bda359f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$d3ad95e5e5357bda359f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$e8b9d54965ecec88dee2$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$e8b9d54965ecec88dee2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$e8b9d54965ecec88dee2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/config-classes/$e8b9d54965ecec88dee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/src/main/scala/streams/GameDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/src/main/scala/streams/GameDef.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/src/main/scala/streams/Solver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/src/main/scala/streams/Solver.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/src/main/scala/streams/StringParserTerrain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/src/main/scala/streams/StringParserTerrain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/BarnesHut.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/SimulationCanvas.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/SimulationModel.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/Simulator.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/conctrees/Conc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/conctrees/ConcBuffer.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/conctrees/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/barneshut/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/resources/kmeans/epfl-view.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/kmeans/KMeans.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/main/scala/kmeans/fun/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/kmeans/src/test/scala/kmeans/KMeansSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/main/scala/reductions/LineOfSight.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/main/scala/reductions/ParallelCountChange.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/test/scala/reductions/LineOfSightSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/test/scala/reductions/ParallelCountChangeSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/reductions/src/test/scala/reductions/ParallelParenthesesBalancingSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/resources/scalashop/scala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/scalashop/PhotoCanvas.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/scalashop/ScalaShop.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/main/scala/scalashop/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3_/scalashop/src/test/scala/scalashop/BlurSuite.scala" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/web-ui/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Calculator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/TweetLength.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Polynomial.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Signal.scala">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/calculator/TweetLength.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/calculator/Polynomial.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/calculator/Calculator.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546830272557" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-calculator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/syd/Desktop/scala_proj/coursera_scala/C2_Functional%20Program%20Design%20in%20Scala/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="webUI [file:/Users/syd/Desktop/scala_proj/coursera_scala/C2_Functional%20Program%20Design%20in%20Scala/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$/web-ui" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="shared-sources" />
+                <option name="path" value="$PROJECT_DIR$/src/main/scala/calculator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-calculator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18233173416000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3656547494" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../C1_Functional_Programming_Principles_in_Scala/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../C1_pr_scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../C1_pr_scala/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../objsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4976aea5-6c3d-4ac1-80b2-779526f798d0" name="Default Changelist" comment="" />
+      <created>1546798299787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546798299787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="23" width="1260" height="724" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="sbt" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Calculator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/TweetLength.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Polynomial.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/calculator/Signal.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
